@@ -60,7 +60,6 @@ function ordenarPorNombre() {
             return 0 ;
         });
         
-
         mostrarGuardados(guardadas);
     }
 }
